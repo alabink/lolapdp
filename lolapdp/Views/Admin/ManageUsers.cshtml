@@ -1,0 +1,106 @@
+@model IEnumerable<lolapdp.Models.User>
+
+@{
+    ViewData["Title"] = "Manage Users";
+}
+
+<div class="container-fluid">
+    <h2 class="mb-4">Manage Users</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Username</th>
+                            <th>Role</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Model)
+                        {
+                            <tr>
+                                <td>@user.Username</td>
+                                <td>
+                                    <span class="badge @(user.Role == "Admin" ? "bg-danger" : "bg-primary")">
+                                        @user.Role
+                                    </span>
+                                </td>
+                                <td>
+                                    <div class="btn-group">
+                                        <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#editModal@(user.Id)">
+                                            <i class="bi bi-pencil"></i> Edit
+                                        </button>
+                                        <button type="button" class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal@(user.Id)">
+                                            <i class="bi bi-trash"></i> Delete
+                                        </button>
+                                    </div>
+
+                                    <!-- Edit Modal -->
+                                    <div class="modal fade" id="editModal@(user.Id)" tabindex="-1">
+                                        <div class="modal-dialog">
+                                            <div class="modal-content">
+                                                <form asp-action="Edit" asp-route-id="@user.Id" method="post">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title">Edit User: @user.Username</h5>
+                                                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <input type="hidden" name="Id" value="@user.Id" />
+                                                        <input type="hidden" name="Username" value="@user.Username" />
+                                                        <input type="hidden" name="PasswordHash" value="@user.PasswordHash" />
+                                                        
+                                                        <div class="mb-3">
+                                                            <label class="form-label">Role</label>
+                                                            <select name="Role" class="form-select">
+                                                                <option value="Student" selected="@(user.Role == "Student")">Student</option>
+                                                                <option value="Faculty" selected="@(user.Role == "Faculty")">Faculty</option>
+                                                                <option value="Admin" selected="@(user.Role == "Admin")">Admin</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                                        <button type="submit" class="btn btn-primary">Save Changes</button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Delete Modal -->
+                                    <div class="modal fade" id="deleteModal@(user.Id)" tabindex="-1">
+                                        <div class="modal-dialog">
+                                            <div class="modal-content">
+                                                <form asp-action="Delete" asp-route-id="@user.Id" method="post">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title">Delete User</h5>
+                                                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <p>Are you sure you want to delete user <strong>@user.Username</strong>?</p>
+                                                        <p class="text-danger">This action cannot be undone.</p>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                                        <button type="submit" class="btn btn-danger">Delete User</button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+}
