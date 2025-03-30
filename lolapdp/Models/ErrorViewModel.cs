@@ -7,3 +7,4 @@ namespace lolapdp.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+//dbl
