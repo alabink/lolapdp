@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "D:\\Visual Studio\\lolapdp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\admin\\managecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\admin\\managecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\models\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\models\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\models\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\models\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\student\\viewcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,26 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\faculty\\viewassignedcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\faculty\\viewassignedcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\views\\admin\\managecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\views\\admin\\managecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|d:\\visual studio\\lolapdp\\lolapdp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C041511-0A4F-4CDA-BC20-347149D5A6B6}|lolapdp\\lolapdp.csproj|solutionrelative:lolapdp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -130,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -139,90 +155,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:07:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:07:18.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "lolapdp\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "lolapdp\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA6wEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T10:01:32.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "lolapdp\\Models\\User.cs",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\User.cs",
-              "RelativeToolTip": "lolapdp\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:05:23.089Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IAuthentication.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\IAuthentication.cs",
-              "RelativeDocumentMoniker": "lolapdp\\Models\\IAuthentication.cs",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\IAuthentication.cs",
-              "RelativeToolTip": "lolapdp\\Models\\IAuthentication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:04:15.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:07:15.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:07:23.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Program.cs",
-              "RelativeDocumentMoniker": "lolapdp\\Program.cs",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Program.cs",
-              "RelativeToolTip": "lolapdp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:14:49.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Authentication.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\Authentication.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\Authentication.cs",
               "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\Authentication.cs",
               "RelativeToolTip": "lolapdp\\Models\\Authentication.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T10:05:37.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\Course.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\Course.cs",
@@ -234,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "CSVService.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\CSVService.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\CSVService.cs",
@@ -246,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "lolapdp\\Data\\ApplicationDbContext.cs",
@@ -259,103 +239,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ManageUsers.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\ManageUsers.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Admin\\ManageUsers.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\ManageUsers.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Admin\\ManageUsers.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAF8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:07:36.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ManageGrades.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:08:51.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ViewAssignedCourses.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:09:06.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:09:42.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewGrades.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewGrades.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Student\\ViewGrades.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewGrades.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Student\\ViewGrades.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:09:51.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewCourses.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewCourses.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Student\\ViewCourses.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewCourses.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Student\\ViewCourses.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:10:00.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "lolapdp\\Views\\Course\\Index.cshtml",
               "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Index.cshtml",
               "RelativeToolTip": "lolapdp\\Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwGcAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:08:31.217Z"
+              "WhenOpened": "2025-03-25T10:08:31.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Edit.cshtml",
-              "RelativeDocumentMoniker": "lolapdp\\Views\\Course\\Edit.cshtml",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Edit.cshtml",
-              "RelativeToolTip": "lolapdp\\Views\\Course\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T10:08:22.442Z"
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "lolapdp\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "lolapdp\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:01:51.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Delete.cshtml",
               "RelativeDocumentMoniker": "lolapdp\\Views\\Course\\Delete.cshtml",
@@ -367,7 +275,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:08:22.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Course\\Add.cshtml",
               "RelativeDocumentMoniker": "lolapdp\\Views\\Course\\Add.cshtml",
@@ -379,7 +299,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Program.cs",
+              "RelativeDocumentMoniker": "lolapdp\\Program.cs",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Program.cs",
+              "RelativeToolTip": "lolapdp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:14:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ManageCourses.cshtml",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\ManageCourses.cshtml",
               "RelativeDocumentMoniker": "lolapdp\\Views\\Admin\\ManageCourses.cshtml",
@@ -391,7 +323,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:07:23.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:07:15.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "lolapdp\\Models\\IAuthentication.cs",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\IAuthentication.cs",
+              "RelativeToolTip": "lolapdp\\Models\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:04:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "lolapdp\\Models\\User.cs",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\User.cs",
+              "RelativeToolTip": "lolapdp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:05:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T15:23:19.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T01:17:53.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Admin\\ManageUsers.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:07:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageGrades.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Faculty\\ManageGrades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:08:51.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewAssignedCourses.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Faculty\\ViewAssignedCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:09:06.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:09:42.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewGrades.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewGrades.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Student\\ViewGrades.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewGrades.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Student\\ViewGrades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:09:51.398Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "ViewCourses.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewCourses.cshtml",
+              "RelativeDocumentMoniker": "lolapdp\\Views\\Student\\ViewCourses.cshtml",
+              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Views\\Student\\ViewCourses.cshtml",
+              "RelativeToolTip": "lolapdp\\Views\\Student\\ViewCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:10:00.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\Student.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\Student.cs",
@@ -403,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "IUserManagement.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\IUserManagement.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\IUserManagement.cs",
@@ -415,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ICSVService.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\ICSVService.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\ICSVService.cs",
@@ -427,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ICourseManagement.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\ICourseManagement.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\ICourseManagement.cs",
@@ -439,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Faculty.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Models\\Faculty.cs",
               "RelativeDocumentMoniker": "lolapdp\\Models\\Faculty.cs",
@@ -451,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "lolapdp\\Controllers\\StudentController.cs",
@@ -463,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "FacultyController.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\FacultyController.cs",
               "RelativeDocumentMoniker": "lolapdp\\Controllers\\FacultyController.cs",
@@ -475,19 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "lolapdp\\Controllers\\CourseController.cs",
-              "ToolTip": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "lolapdp\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:01:51.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Visual Studio\\lolapdp\\lolapdp\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "lolapdp\\Controllers\\AdminController.cs",

@@ -138,3 +138,4 @@ D:\Visual Studio\lolapdp\lolapdp\bin\Debug\net8.0\lolapdp.pdb
 D:\Visual Studio\lolapdp\lolapdp\obj\Debug\net8.0\lolapdp.genruntimeconfig.cache
 D:\Visual Studio\lolapdp\lolapdp\obj\Debug\net8.0\ref\lolapdp.dll
 D:\Visual Studio\lolapdp\lolapdp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Visual Studio\lolapdp\lolapdp\obj\Debug\net8.0\lolapdp.sourcelink.json

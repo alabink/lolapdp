@@ -87,9 +87,21 @@
                                                         <div class="mb-3">
                                                             <label class="form-label">Faculty</label>
                                                             <select name="Faculty" class="form-select" required>
-                                                                @foreach (var faculty in ViewBag.FacultyList)
+                                                                @if (ViewBag.FacultyList != null && ((IEnumerable<Faculty>)ViewBag.FacultyList).Any())
                                                                 {
-                                                                    <option value="@faculty" selected="@(faculty == course.Faculty)">@faculty</option>
+                                                                    <table>
+                                                                        @foreach (var faculty in ViewBag.FacultyList)
+                                                                        {
+                                                                            <tr>
+                                                                                <td>@faculty.Name</td>
+                                                                                <td>@faculty.Description</td>
+                                                                            </tr>
+                                                                        }
+                                                                    </table>
+                                                                }
+                                                                else
+                                                                {
+                                                                    <p>No faculties available.</p> //dbl dbl dblgit stat
                                                                 }
                                                             </select>
                                                         </div>
