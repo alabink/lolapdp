@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lolapdp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67da75f067cf6885086c8f081e04ff4d514d6925")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24fbdb475cac64f4d7f47336c826633926f34ea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("lolapdp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lolapdp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

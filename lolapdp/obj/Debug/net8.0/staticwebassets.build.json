@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VGYL2SFCwkkw4BpWBwtbzW8B+x4WFSfCUJk4LNGQi0U=",
+  "Hash": "OmME8YbEertDZpYh8RPaD4p0/nrG/NevyzB47W1JxNY=",
   "Source": "lolapdp",
   "BasePath": "_content/lolapdp",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "D:\\Visual Studio\\lolapdp\\lolapdp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lolapdp.bundle.scp.css"
     },
     {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\account.css",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "css/account#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9gz1kf9j6",
+      "Integrity": "I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\account.css"
+    },
+    {
       "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\site.css",
       "SourceId": "lolapdp",
       "SourceType": "Discovered",
@@ -99,6 +120,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\collaboration.jpg",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "images/collaboration#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "424ksdi3sz",
+      "Integrity": "jCEoHvGcSKgqbhWB1zRWWz1US6xZh72zTksqJp538hk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\collaboration.jpg"
+    },
+    {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\course-management.jpg",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "images/course-management#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "byvtfuy27a",
+      "Integrity": "A47gEn1m0TB5sFe/exmXd6jhBmjlT/EXxonXLzg/J+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\course-management.jpg"
+    },
+    {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\education-hero.jpg",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "images/education-hero#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2t7h9ik5t0",
+      "Integrity": "Og1sIt14BqKWwUvrBr/c+SAtodTViRtfQ7jI+ueNzio=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\education-hero.jpg"
+    },
+    {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\grading-system.jpg",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "images/grading-system#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nv2voc24oq",
+      "Integrity": "UwjkDk6oLONbVs5+y3CaKpao3nNQyO2SVKn4iOHPNj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\grading-system.jpg"
+    },
+    {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\student-tracking.jpg",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "images/student-tracking#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "llotpfefe8",
+      "Integrity": "N+ljUd6Jwu2Z5RVOHXfobDIZwGURsRnuqYagdLxO6oo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\student-tracking.jpg"
     },
     {
       "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\js\\site.js",
@@ -1321,6 +1447,88 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/account.css",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM="
+        }
+      ]
+    },
+    {
+      "Route": "css/account.v9gz1kf9j6.css",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9gz1kf9j6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/account.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1481,6 +1689,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/collaboration.424ksdi3sz.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\collaboration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCEoHvGcSKgqbhWB1zRWWz1US6xZh72zTksqJp538hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:26:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "424ksdi3sz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/collaboration.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCEoHvGcSKgqbhWB1zRWWz1US6xZh72zTksqJp538hk="
+        }
+      ]
+    },
+    {
+      "Route": "images/collaboration.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\collaboration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCEoHvGcSKgqbhWB1zRWWz1US6xZh72zTksqJp538hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:26:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCEoHvGcSKgqbhWB1zRWWz1US6xZh72zTksqJp538hk="
+        }
+      ]
+    },
+    {
+      "Route": "images/course-management.byvtfuy27a.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\course-management.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A47gEn1m0TB5sFe/exmXd6jhBmjlT/EXxonXLzg/J+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "byvtfuy27a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/course-management.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A47gEn1m0TB5sFe/exmXd6jhBmjlT/EXxonXLzg/J+M="
+        }
+      ]
+    },
+    {
+      "Route": "images/course-management.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\course-management.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A47gEn1m0TB5sFe/exmXd6jhBmjlT/EXxonXLzg/J+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A47gEn1m0TB5sFe/exmXd6jhBmjlT/EXxonXLzg/J+M="
+        }
+      ]
+    },
+    {
+      "Route": "images/education-hero.2t7h9ik5t0.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\education-hero.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Og1sIt14BqKWwUvrBr/c+SAtodTViRtfQ7jI+ueNzio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2t7h9ik5t0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/education-hero.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Og1sIt14BqKWwUvrBr/c+SAtodTViRtfQ7jI+ueNzio="
+        }
+      ]
+    },
+    {
+      "Route": "images/education-hero.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\education-hero.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Og1sIt14BqKWwUvrBr/c+SAtodTViRtfQ7jI+ueNzio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Og1sIt14BqKWwUvrBr/c+SAtodTViRtfQ7jI+ueNzio="
+        }
+      ]
+    },
+    {
+      "Route": "images/grading-system.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\grading-system.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UwjkDk6oLONbVs5+y3CaKpao3nNQyO2SVKn4iOHPNj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:25:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UwjkDk6oLONbVs5+y3CaKpao3nNQyO2SVKn4iOHPNj0="
+        }
+      ]
+    },
+    {
+      "Route": "images/grading-system.nv2voc24oq.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\grading-system.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UwjkDk6oLONbVs5+y3CaKpao3nNQyO2SVKn4iOHPNj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:25:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nv2voc24oq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/grading-system.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UwjkDk6oLONbVs5+y3CaKpao3nNQyO2SVKn4iOHPNj0="
+        }
+      ]
+    },
+    {
+      "Route": "images/student-tracking.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\student-tracking.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+ljUd6Jwu2Z5RVOHXfobDIZwGURsRnuqYagdLxO6oo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+ljUd6Jwu2Z5RVOHXfobDIZwGURsRnuqYagdLxO6oo="
+        }
+      ]
+    },
+    {
+      "Route": "images/student-tracking.llotpfefe8.jpg",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\student-tracking.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+ljUd6Jwu2Z5RVOHXfobDIZwGURsRnuqYagdLxO6oo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 11:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "llotpfefe8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/student-tracking.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+ljUd6Jwu2Z5RVOHXfobDIZwGURsRnuqYagdLxO6oo="
         }
       ]
     },

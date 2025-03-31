@@ -1,0 +1,438 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="dashboard-container">
+    <!-- Welcome Section -->
+    <div class="welcome-section">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h1>Welcome back, @User.Identity?.Name!</h1>
+                <p class="text-muted">Here's what's happening with your courses today.</p>
+            </div>
+            @if (User.IsInRole("Admin"))
+            {
+                <div class="col-md-4">
+                    <div class="admin-actions d-flex gap-2 justify-content-end">
+                        <a href="@Url.Action("ManageUsers", "Admin")" class="btn btn-primary">
+                            <i class="bi bi-people"></i> User Management
+                        </a>
+                        <a href="@Url.Action("Index", "Course")" class="btn btn-success">
+                            <i class="bi bi-book"></i> Course Management
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    @if (User.IsInRole("Admin"))
+    {
+        <!-- Admin Stats -->
+        <div class="row g-4 mb-4">
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-primary-soft">
+                        <i class="bi bi-people"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>@ViewBag.TotalUsers</h3>
+                        <p>Total Users</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-success-soft">
+                        <i class="bi bi-mortarboard"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>@ViewBag.TotalStudents</h3>
+                        <p>Students</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-info-soft">
+                        <i class="bi bi-person-workspace"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>@ViewBag.TotalFaculty</h3>
+                        <p>Faculty Members</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-warning-soft">
+                        <i class="bi bi-book"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>@ViewBag.ActiveCourses</h3>
+                        <p>Active Courses</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Admin Overview -->
+        <div class="row g-4">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Recent User Activities</h5>
+                        <a href="@Url.Action("ManageUsers", "Admin")" class="btn btn-sm btn-outline-primary">View All</a>
+                    </div>
+                    <div class="card-body">
+                        @if (ViewBag.RecentUserActivities != null && ViewBag.RecentUserActivities.Count > 0)
+                        {
+                            foreach (var user in ViewBag.RecentUserActivities)
+                            {
+                                <div class="activity-item">
+                                    <div class="activity-icon bg-success-soft">
+                                        <i class="bi bi-person"></i>
+                                    </div>
+                                    <div class="activity-details">
+                                        <h6>@user.Username</h6>
+                                        <p>Role: @user.Role</p>
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p class="text-muted text-center my-3">No recent user activities</p>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Recent Course Activities</h5>
+                        <a href="@Url.Action("Index", "Course")" class="btn btn-sm btn-outline-primary">View All</a>
+                    </div>
+                    <div class="card-body">
+                        @if (ViewBag.RecentCourseActivities != null && ViewBag.RecentCourseActivities.Count > 0)
+                        {
+                            foreach (var course in ViewBag.RecentCourseActivities)
+                            {
+                                <div class="activity-item">
+                                    <div class="activity-icon bg-primary-soft">
+                                        <i class="bi bi-book"></i>
+                                    </div>
+                                    <div class="activity-details">
+                                        <h6>@course.CourseName</h6>
+                                        <p>Code: @course.CourseCode</p>
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p class="text-muted text-center my-3">No recent course activities</p>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <!-- Regular User Stats -->
+        <div class="row g-4 mb-4">
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-primary-soft">
+                        <i class="bi bi-book"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>12</h3>
+                        <p>Active Courses</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-success-soft">
+                        <i class="bi bi-people"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>48</h3>
+                        <p>Total Students</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-info-soft">
+                        <i class="bi bi-calendar-check"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>8</h3>
+                        <p>Classes Today</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stat-card">
+                    <div class="stat-icon bg-warning-soft">
+                        <i class="bi bi-clock-history"></i>
+                    </div>
+                    <div class="stat-details">
+                        <h3>24</h3>
+                        <p>Pending Tasks</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Regular User Content -->
+        <div class="row g-4">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Recent Activity</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="activity-item">
+                            <div class="activity-icon bg-success-soft">
+                                <i class="bi bi-person-check"></i>
+                            </div>
+                            <div class="activity-details">
+                                <h6>New Student Enrolled</h6>
+                                <p>John Doe enrolled in "Advanced Mathematics"</p>
+                                <small class="text-muted">2 hours ago</small>
+                            </div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-icon bg-primary-soft">
+                                <i class="bi bi-file-earmark-text"></i>
+                            </div>
+                            <div class="activity-details">
+                                <h6>Assignment Submitted</h6>
+                                <p>5 students submitted "Week 3 Assignment"</p>
+                                <small class="text-muted">5 hours ago</small>
+                            </div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-icon bg-info-soft">
+                                <i class="bi bi-star"></i>
+                            </div>
+                            <div class="activity-details">
+                                <h6>Course Completed</h6>
+                                <p>Sarah Wilson completed "Basic Physics"</p>
+                                <small class="text-muted">1 day ago</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Upcoming Classes</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="upcoming-class">
+                            <div class="class-time">09:00 AM</div>
+                            <div class="class-details">
+                                <h6>Advanced Mathematics</h6>
+                                <p>Room 201 • 25 Students</p>
+                            </div>
+                        </div>
+                        <div class="upcoming-class">
+                            <div class="class-time">11:30 AM</div>
+                            <div class="class-details">
+                                <h6>Physics Lab</h6>
+                                <p>Lab 3 • 18 Students</p>
+                            </div>
+                        </div>
+                        <div class="upcoming-class">
+                            <div class="class-time">02:00 PM</div>
+                            <div class="class-details">
+                                <h6>English Literature</h6>
+                                <p>Room 105 • 30 Students</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+.dashboard-container {
+    padding: 2rem;
+}
+
+.welcome-section {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.admin-actions {
+    margin-top: 1rem;
+}
+
+.stat-card {
+    background: white;
+    border-radius: 10px;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.stat-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    transition: transform 0.2s ease;
+}
+
+.stat-card:hover .stat-icon {
+    transform: scale(1.1);
+}
+
+.bg-primary-soft { background: rgba(13, 110, 253, 0.1); color: #0d6efd; }
+.bg-success-soft { background: rgba(25, 135, 84, 0.1); color: #198754; }
+.bg-info-soft { background: rgba(13, 202, 240, 0.1); color: #0dcaf0; }
+.bg-warning-soft { background: rgba(255, 193, 7, 0.1); color: #ffc107; }
+
+.stat-details h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.stat-details p {
+    margin: 0;
+    color: #6c757d;
+}
+
+.activity-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid #e9ecef;
+    transition: background-color 0.2s ease;
+}
+
+.activity-item:hover {
+    background-color: rgba(0,0,0,0.01);
+}
+
+.activity-item:last-child {
+    border-bottom: none;
+}
+
+.activity-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.activity-details h6 {
+    margin: 0;
+    font-weight: 600;
+}
+
+.activity-details p {
+    margin: 0.25rem 0;
+    color: #6c757d;
+}
+
+.upcoming-class {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid #e9ecef;
+    transition: background-color 0.2s ease;
+}
+
+.upcoming-class:hover {
+    background-color: rgba(0,0,0,0.01);
+}
+
+.upcoming-class:last-child {
+    border-bottom: none;
+}
+
+.class-time {
+    font-weight: 600;
+    color: #0d6efd;
+    min-width: 80px;
+}
+
+.class-details h6 {
+    margin: 0;
+    font-weight: 600;
+}
+
+.class-details p {
+    margin: 0;
+    color: #6c757d;
+    font-size: 0.875rem;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background: white;
+    border-bottom: 1px solid #e9ecef;
+    padding: 1rem 1.5rem;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+}
+
+.btn i {
+    font-size: 1.1em;
+}
+</style> 

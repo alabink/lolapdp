@@ -5,12 +5,36 @@
       "PackagePath": "staticwebassets\\lolapdp.kuua9isooe.bundle.scp.css"
     },
     {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
       "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\collaboration.jpg",
+      "PackagePath": "staticwebassets\\images\\collaboration.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\course-management.jpg",
+      "PackagePath": "staticwebassets\\images\\course-management.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\education-hero.jpg",
+      "PackagePath": "staticwebassets\\images\\education-hero.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\grading-system.jpg",
+      "PackagePath": "staticwebassets\\images\\grading-system.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\student-tracking.jpg",
+      "PackagePath": "staticwebassets\\images\\student-tracking.jpg"
     },
     {
       "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\js\\site.js",

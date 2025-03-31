@@ -1,0 +1,171 @@
+/* Account pages (Login & Register) styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.auth-container {
+    position: fixed;
+    top: 60px; /* Để lại khoảng trống cho navigation */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1; /* Đảm bảo form nằm dưới navigation */
+}
+
+/* Navigation styles */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    z-index: 2;
+    height: 60px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.auth-card {
+    background: #ffffff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.auth-card .card-body {
+    padding: 2.5rem;
+}
+
+.auth-title {
+    color: #2d3748;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    font-size: 1.875rem;
+}
+
+.auth-subtitle {
+    color: #718096;
+    font-size: 0.875rem;
+    margin-bottom: 2rem;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-label {
+    color: #4a5568;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.input-group {
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.input-group:focus-within {
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+}
+
+.input-group-text {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-right: none;
+    color: #718096;
+    padding: 0.75rem 1rem;
+}
+
+.form-control {
+    border: 1px solid #e2e8f0;
+    border-left: none;
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    color: #2d3748;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #e2e8f0;
+}
+
+.form-control::placeholder {
+    color: #a0aec0;
+}
+
+.btn {
+    padding: 0.75rem 1rem;
+    font-weight: 500;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #4299e1;
+    border-color: #4299e1;
+}
+
+.btn-primary:hover {
+    background-color: #3182ce;
+    border-color: #3182ce;
+    transform: translateY(-1px);
+}
+
+.btn-outline-secondary {
+    color: #718096;
+    border-color: #e2e8f0;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #f7fafc;
+    border-color: #cbd5e0;
+    color: #2d3748;
+}
+
+.alert {
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+}
+
+.alert-danger {
+    background-color: #fff5f5;
+    border-color: #feb2b2;
+    color: #c53030;
+}
+
+.auth-links {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.auth-links a {
+    color: #4299e1;
+    text-decoration: none;
+    font-size: 0.875rem;
+}
+
+.auth-links a:hover {
+    text-decoration: underline;
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.auth-card {
+    animation: fadeIn 0.6s ease-out;
+} 

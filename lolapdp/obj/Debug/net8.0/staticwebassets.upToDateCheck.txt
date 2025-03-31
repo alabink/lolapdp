@@ -1,5 +1,11 @@
+wwwroot\css\account.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\collaboration.jpg
+wwwroot\images\course-management.jpg
+wwwroot\images\education-hero.jpg
+wwwroot\images\grading-system.jpg
+wwwroot\images\student-tracking.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
