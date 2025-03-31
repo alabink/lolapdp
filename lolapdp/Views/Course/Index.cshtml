@@ -47,6 +47,9 @@
                                         <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#editModal@(course.Id)">
                                             <i class="bi bi-pencil"></i> Edit
                                         </button>
+                                        <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-success btn-sm">
+                                            <i class="bi bi-people"></i> Manage Students
+                                        </a>
                                         <button type="button" class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal@(course.Id)">
                                             <i class="bi bi-trash"></i> Delete
                                         </button>
@@ -87,21 +90,23 @@
                                                         <div class="mb-3">
                                                             <label class="form-label">Faculty</label>
                                                             <select name="Faculty" class="form-select" required>
-                                                                @if (ViewBag.FacultyList != null && ((IEnumerable<Faculty>)ViewBag.FacultyList).Any())
+                                                                @if (ViewBag.FacultyList != null)
                                                                 {
-                                                                    <table>
-                                                                        @foreach (var faculty in ViewBag.FacultyList)
+                                                                    @foreach (var faculty in ViewBag.FacultyList)
+                                                                    {
+                                                                        if (course.Faculty == faculty.Username)
                                                                         {
-                                                                            <tr>
-                                                                                <td>@faculty.Name</td>
-                                                                                <td>@faculty.Description</td>
-                                                                            </tr>
+                                                                            <option value="@faculty.Username" selected>@faculty.Username</option>
                                                                         }
-                                                                    </table>
+                                                                        else
+                                                                        {
+                                                                            <option value="@faculty.Username">@faculty.Username</option>
+                                                                        }
+                                                                    }
                                                                 }
                                                                 else
                                                                 {
-                                                                    <p>No faculties available.</p> //dbl dbl dblgit stat
+                                                                    <option value="">No faculties available</option>
                                                                 }
                                                             </select>
                                                         </div>
