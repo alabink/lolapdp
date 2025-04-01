@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OmME8YbEertDZpYh8RPaD4p0/nrG/NevyzB47W1JxNY=",
+  "Hash": "zqDVVime5WU0vLJrSoCppOi1NuiFs9wKcJrPDAz008s=",
   "Source": "lolapdp",
   "BasePath": "_content/lolapdp",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v9gz1kf9j6",
-      "Integrity": "I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM=",
+      "Fingerprint": "nxl7f58fdg",
+      "Integrity": "NbJJlVzx/2TuF87Aks6uk/EUMlV3k10ypXYuz4mSz7A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\account.css"
@@ -204,6 +204,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\grading-system.jpg"
+    },
+    {
+      "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\logo.png",
+      "SourceId": "lolapdp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\",
+      "BasePath": "_content/lolapdp",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cmgo7qud7p",
+      "Integrity": "3GYeZFyGWX+dUzGxAbHTqRAM+tWAdxG0mhDud6kjHsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\student-tracking.jpg",
@@ -1457,7 +1478,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3016"
+          "Value": "2846"
         },
         {
           "Name": "Content-Type",
@@ -1465,11 +1486,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM=\""
+          "Value": "\"NbJJlVzx/2TuF87Aks6uk/EUMlV3k10ypXYuz4mSz7A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:35:52 GMT"
+          "Value": "Tue, 01 Apr 2025 15:07:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1479,12 +1500,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM="
+          "Value": "sha256-NbJJlVzx/2TuF87Aks6uk/EUMlV3k10ypXYuz4mSz7A="
         }
       ]
     },
     {
-      "Route": "css/account.v9gz1kf9j6.css",
+      "Route": "css/account.nxl7f58fdg.css",
       "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\css\\account.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1494,7 +1515,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3016"
+          "Value": "2846"
         },
         {
           "Name": "Content-Type",
@@ -1502,11 +1523,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM=\""
+          "Value": "\"NbJJlVzx/2TuF87Aks6uk/EUMlV3k10ypXYuz4mSz7A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:35:52 GMT"
+          "Value": "Tue, 01 Apr 2025 15:07:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1516,7 +1537,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v9gz1kf9j6"
+          "Value": "nxl7f58fdg"
         },
         {
           "Name": "label",
@@ -1524,7 +1545,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-I96U0RTgYqQqUPaaYmlzOOrdU3hc6X5wOQPJyQSk3DM="
+          "Value": "sha256-NbJJlVzx/2TuF87Aks6uk/EUMlV3k10ypXYuz4mSz7A="
         }
       ]
     },
@@ -2017,6 +2038,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-UwjkDk6oLONbVs5+y3CaKpao3nNQyO2SVKn4iOHPNj0="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.cmgo7qud7p.png",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3GYeZFyGWX+dUzGxAbHTqRAM+tWAdxG0mhDud6kjHsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 14:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmgo7qud7p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3GYeZFyGWX+dUzGxAbHTqRAM+tWAdxG0mhDud6kjHsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3GYeZFyGWX+dUzGxAbHTqRAM+tWAdxG0mhDud6kjHsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 14:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3GYeZFyGWX+dUzGxAbHTqRAM+tWAdxG0mhDud6kjHsE="
         }
       ]
     },

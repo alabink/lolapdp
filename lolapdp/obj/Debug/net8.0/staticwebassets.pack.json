@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\images\\grading-system.jpg"
     },
     {
+      "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
       "Id": "D:\\Visual Studio\\lolapdp\\lolapdp\\wwwroot\\images\\student-tracking.jpg",
       "PackagePath": "staticwebassets\\images\\student-tracking.jpg"
     },
